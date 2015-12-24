@@ -21,46 +21,45 @@ Please feel free to contribute & free to contact me.
 - The [Wiki](https://github.com/narainsagar/free-my-university-programming-work-and-assignments/wiki)
 - The Project [page](http://narainsagar.github.io/free-my-university-programming-work-and-assignments) Feel free to share it.
 
-## Code Status:
-All coded has been done up to the **Intermediate Front End Development Projects** I just have to finish the section.
-
 ## Wiki Status:
 I'm currently working on it.. Will be updated soon.
 
 ### Repo Major Directories:
 All work here you find is done by me during university studies for assignment, exercise, practice and course project purpose..
 
-##### C Works
-- `c practice exercises`: Contains all basic practice exercises problems (c)
-- `c assignments`: Contains all assignments & its solution (c)
-- `c projects`: Contains all my projects written in c
+##### Assignments
+This directory will contain all coding assignments work i done during my graduation period.
 
-##### C++ Works
-- `c++ practice exercises`: Contains all basic practice exercises problems (c++)
-- `c++ assignments`: Contains all assignments & its solution (c++)
-- `c++ projects`: Contains all my projects written in c
+I will/ follow pattern whenever adding any assignment here by creating new directory with name format: 
+`<Assignment Problem Title>-<Course Title>-<Language | Techs>`
 
-##### Java Works
-- `java practice exercises`: Contains all basic practice exercises problems (java)
-- `java assignments`: Contains all assignments & its solution (java)
-- `java projects`: Contains all my projects written in java
+### List of assignments currently exist in there:
 
-### Will cover as well (in future):
-1. HTML5 and CSS
-2. Responsive Design with Bootstrap
-3. jQuery
-4. Basic JavaScript
-5. Object Oriented and Functional Programming
-6. Automated Testing and Debugging
-7. Angular.js
-8. Git
-9. Get Started with Free Code Camp
+- `Client Server Problem (Computer Networks) - Java`
+- 
 
-### To-DO:
-1. Node.js and Express.js
-2. MongoDB
-3. Full Stack JavaScript Projects
-4. Android Apps
+##### Practice & Exercises
+This directory will contain all coding practice and exercises work i done during my graduation period.
+
+I will/ follow pattern whenever adding any assignment here by creating new directory with name format: 
+`<Problem Title>-<Course Title>-<Language | Techs>`
+
+### List of practice/exercise problems currently exist in there:
+
+- `Hello World (ITC) - C++`
+-
+
+##### Projects
+This directory will contain all coding projects work i done during my graduation period.
+
+I will/ follow pattern whenever adding any project here by creating new directory with name format: 
+`<Project Title>-<Course Title>-<Language | Techs>`
+
+### List of projects currently exist in there:
+
+- `CGPA Calculator (Computer Programming) - C++`
+-
+
 
 ## Contribute to my repo & wiki.
 If you would like to contribute then feel free to clone, fork, create a branch, add or edit content and submit a pull request to this repo [https://github.com/narainsagar/MyUniProgrammingWorkWiki](https://github.com/narainsagar/MyUniProgrammingWorkWiki) then I will check it out and merge it. Then push it to the live wiki. This also could serve as a  repo for only the wiki if you want to keep your own but do not want to also clone my code.

@@ -37,4 +37,3 @@ when you create & setup the project Codebase, the Structure will be look like.
 		-> simpleserver
 			-> SimpleServer.java
 ```
-
