@@ -15,7 +15,7 @@ Please feel free to contribute & free to contact me.
 
 ![@narainsagar](https://avatars0.githubusercontent.com/narainsagar?&s=128)
 
-[Github](https://github.com/narainsagar) | [FreeCodeCamp](http://www.freecodecamp.com/narainsagar) |  [CodePen](http://codepen.io/narainsagar/) | [LinkedIn](https://www.linkedin.com/pk/narainsagar) | [Blog/Site](https://about.me/narainsagar) | [E-Mail](mailto:narainsagar@outlook.com)
+[Github](https://github.com/narainsagar) | [FreeCodeCamp](http://www.freecodecamp.com/narainsagar) | [LinkedIn](https://www.linkedin.com/pk/narainsagar) | [AboutMe](https://about.me/narainsagar) | [E-Mail](mailto:thecompletecode@gmail.com)
 
 ## Links
 - The [Wiki](https://github.com/narainsagar/free-my-university-programming-work-and-assignments/wiki)
@@ -45,7 +45,7 @@ All work here you find is done by me during university studies for assignment, e
 - `java assignments`: Contains all assignments & its solution (java)
 - `java projects`: Contains all my projects written in java
 
-### Will cover as well:
+### Will cover as well (in future):
 1. HTML5 and CSS
 2. Responsive Design with Bootstrap
 3. jQuery
