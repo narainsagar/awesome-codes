@@ -13,7 +13,7 @@ It has 2 modules:
 1. SimpleClient
 2. SimpleServer
 
-For setting up this project, open NetBeans IDE and create new project named `SimpleClient` and `SimpleServer` and add that files that are in the folders..
+For setting up this project, open NetBeans IDE and create new project named `SimpleClient` and `SimpleServer` seperately and add that files that are in the according folders..
 
 when you create & setup the project Codebase, the Structure will be look like.
 
