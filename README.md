@@ -6,20 +6,12 @@ I will try to keep everything updated. The purpose of this is for reference and 
 
 If you find this useful then follow and start it, feel free to share it also.
 
-I will post and share all these codes on blogger soon with description as well: (The Complete Code)[https://www.thecompletecode.blogspot.com/]
-
-Please feel free to contribute & free to contact me.
-
-## Contact me
-**Narain Sagar**(NineS)
-
-![@narainsagar](https://avatars0.githubusercontent.com/narainsagar?&s=128)
-
-[Github](https://github.com/narainsagar) | [FreeCodeCamp](http://www.freecodecamp.com/narainsagar) | [LinkedIn](https://www.linkedin.com/pk/narainsagar) | [AboutMe](https://about.me/narainsagar) | [E-Mail](mailto:thecompletecode@gmail.com)
+TODO: I will post and share all these codes on blogger as well soon along with description: (The Complete Code)[https://www.thecompletecode.blogspot.com/]
 
 ## Links
 - The [Wiki](https://github.com/narainsagar/free-my-university-programming-work-and-assignments/wiki)
 - The Project [page](http://narainsagar.github.io/free-my-university-programming-work-and-assignments) Feel free to share it.
+
 
 ## Wiki Status:
 I'm currently working on it.. Will be updated soon.
@@ -35,8 +27,7 @@ I will/ follow pattern whenever adding any assignment here by creating new direc
 
 ### List of assignments currently exist in there:
 
-- `Client Server Problem (Computer Networks) - Java`
-- 
+-> `Client Server Problem (Computer Networks) - Java`
 
 ##### Practice & Exercises
 This directory will contain all coding practice and exercises work i done during my graduation period.
@@ -46,8 +37,7 @@ I will/ follow pattern whenever adding any assignment here by creating new direc
 
 ### List of practice/exercise problems currently exist in there:
 
-- `Hello World (ITC) - C++`
--
+-> `Hello World (ITC) - C++`
 
 ##### Projects
 This directory will contain all coding projects work i done during my graduation period.
@@ -57,9 +47,24 @@ I will/ follow pattern whenever adding any project here by creating new director
 
 ### List of projects currently exist in there:
 
-- `CGPA Calculator (Computer Programming) - C++`
--
+-> `CGPA Calculator (Computer Programming) - C++`
 
 
 ## Contribute to my repo & wiki.
 If you would like to contribute then feel free to clone, fork, create a branch, add or edit content and submit a pull request to this repo [https://github.com/narainsagar/MyUniProgrammingWorkWiki](https://github.com/narainsagar/MyUniProgrammingWorkWiki) then I will check it out and merge it. Then push it to the live wiki. This also could serve as a  repo for only the wiki if you want to keep your own but do not want to also clone my code.
+
+
+Please feel free to contribute & contact me.
+
+Cheers!
+
+Have a good day!
+
+**Narain Sagar**(NineS)
+
+![@narainsagar](https://avatars0.githubusercontent.com/narainsagar?&s=128)
+
+[Github](https://github.com/narainsagar) | [FreeCodeCamp](http://www.freecodecamp.com/narainsagar) | [LinkedIn](https://www.linkedin.com/pk/narainsagar) | [AboutMe](https://about.me/narainsagar) | [E-Mail](mailto:thecompletecode@gmail.com)
+
+
+
