@@ -30,13 +30,20 @@ I'm currently working on it.. Will be updated soon.
 ### Repo Major Directories:
 All work here you find is done by me during university studies for assignment, exercise, practice and course project purpose..
 
-0. `c practice exercises`: Contains all basic practice exercises problems (c language)
-1. `c assignments`: Contains all assignments & its solution (c language)
-1. `c++ practice exercises`: Contains all basic practice exercises problems (c++ language)
-2. `c++ assignments`: Contains all assignments & its solution (c++ language)
-3. `c projects`: Contains all projects written in c
-4. `c++ projects`: Contains all projects written in c
+##### C Works
+- `c practice exercises`: Contains all basic practice exercises problems (c)
+- `c assignments`: Contains all assignments & its solution (c)
+- `c projects`: Contains all my projects written in c
 
+##### C++ Works
+- `c++ practice exercises`: Contains all basic practice exercises problems (c++)
+- `c++ assignments`: Contains all assignments & its solution (c++)
+- `c++ projects`: Contains all my projects written in c
+
+##### Java Works
+- `java practice exercises`: Contains all basic practice exercises problems (java)
+- `java assignments`: Contains all assignments & its solution (java)
+- `java projects`: Contains all my projects written in java
 
 ### Will cover as well:
 1. HTML5 and CSS
