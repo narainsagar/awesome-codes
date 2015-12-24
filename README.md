@@ -54,8 +54,8 @@ NOTE: All the c and c++ projects are developed using `DevCpp Compiler` version: 
 ##### Setup & Tools:
 All are for Windows OS users.
 
-1. (`devcpp-4.9.9.2_setup.exe.zip`)[https://www.dropbox.com/s/2uofyetzhq2lpq3/devcpp-4.9.9.2_setup.exe.zip?dl=0]: extract it and install the setup.
-2. (`Dev-CppPortable.zip`)[https://www.dropbox.com/s/xdaqdxg3opoxrxa/Dev-CppPortable.zip?dl=0]: just extract it and use.
+1. [`devcpp-4.9.9.2_setup.exe.zip`](https://www.dropbox.com/s/2uofyetzhq2lpq3/devcpp-4.9.9.2_setup.exe.zip?dl=0): extract it and install the setup.
+2. [`Dev-CppPortable.zip`](https://www.dropbox.com/s/xdaqdxg3opoxrxa/Dev-CppPortable.zip?dl=0): just extract it and use.
 
 
 ##### eBooks:
