@@ -60,7 +60,7 @@ Cheers!
 
 Have a good day!
 
-**Narain Sagar**(NineS)
+**Narain Sagar**
 
 ![@narainsagar](https://avatars0.githubusercontent.com/narainsagar?&s=128)
 
