@@ -6,7 +6,7 @@ I will try to keep everything updated. The purpose of this is for reference and 
 
 If you find this useful then follow and start it, feel free to share it also.
 
-TODO: I will post and share all these codes on blogger as well soon along with description: (The Complete Code)[https://www.thecompletecode.blogspot.com/]
+TODO: I will post and share all these codes on blogger as well soon along with description: [The Complete Code](https://www.thecompletecode.blogspot.com/)
 
 ## Links
 - The [Wiki](https://github.com/narainsagar/free-my-university-programming-work-and-assignments/wiki)
@@ -48,6 +48,18 @@ I will/ follow pattern whenever adding any project here by creating new director
 ### List of projects currently exist in there:
 
 -> `CGPA Calculator (Computer Programming) - C++`
+
+NOTE: All the c and c++ projects are developed using `DevCpp Compiler` version: 4.9.9.2. You may can find/get the setup under the `Tools` folder in this directory.
+
+##### Setup & Tools:
+All are for Windows OS users.
+
+1. (`devcpp-4.9.9.2_setup.exe.zip`)[https://www.dropbox.com/s/2uofyetzhq2lpq3/devcpp-4.9.9.2_setup.exe.zip?dl=0]: extract it and install the setup.
+2. (`Dev-CppPortable.zip`)[https://www.dropbox.com/s/xdaqdxg3opoxrxa/Dev-CppPortable.zip?dl=0]: just extract it and use.
+
+
+##### eBooks:
+The directory `eBooks` contains all my programming & related ebooks collection..
 
 
 ## Contribute to my repo & wiki.
