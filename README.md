@@ -1,4 +1,4 @@
-# My University Time All Programming Work, Exercises, Assignments and Projects
+# My Graduation Period Coding Stuff - All Programming (Exercises, Assignments and Projects, etc) stuffs.
 
 This repository is not for an app but more as a journal where I keep a record of everything I have done in my university time especially programming work (source codes - assignments, practice exercises/problems, projects). I decided to use a wiki as I can put more information easily on it. You will find my code there and also on the right directories if you just want to see the code.
 
@@ -9,8 +9,8 @@ If you find this useful then follow and start it, feel free to share it also.
 TODO: I will post and share all these codes on blogger as well soon along with description: [The Complete Code](https://www.thecompletecode.blogspot.com/)
 
 ## Links
-- The [Wiki](https://github.com/narainsagar/free-my-university-programming-work-and-assignments/wiki)
-- The Project [page](http://narainsagar.github.io/free-my-university-programming-work-and-assignments) Feel free to share it.
+- The [Wiki](https://github.com/narainsagar/free-awesome-code-work/wiki)
+- The Project [page](http://narainsagar.github.io/free-awesome-code-work) Feel free to share it.
 
 
 ## Wiki Status:
@@ -63,20 +63,16 @@ The directory `eBooks` contains all my programming & related ebooks collection..
 
 
 ## Contribute to my repo & wiki.
-If you would like to contribute then feel free to clone, fork, create a branch, add or edit content and submit a pull request to this repo [https://github.com/narainsagar/MyUniProgrammingWorkWiki](https://github.com/narainsagar/MyUniProgrammingWorkWiki) then I will check it out and merge it. Then push it to the live wiki. This also could serve as a  repo for only the wiki if you want to keep your own but do not want to also clone my code.
+If you would like to contribute then feel free to clone, fork, create a branch, add or edit content and submit a pull request to this repo [https://github.com/narainsagar/free-awesome-code-work](https://github.com/narainsagar/free-awesome-code-work) then I will check it out and merge it. Then push it to the live wiki. This also could serve as a  repo for only the wiki if you want to keep your own but do not want to also clone my code.
 
 
 Please feel free to contribute & contact me.
 
 Cheers!
 
-Have a good day!
-
+# Whoami
 **Narain Sagar**
 
 ![@narainsagar](https://avatars0.githubusercontent.com/narainsagar?&s=128)
 
-[Github](https://github.com/narainsagar) | [FreeCodeCamp](http://www.freecodecamp.com/narainsagar) | [LinkedIn](https://www.linkedin.com/pk/narainsagar) | [AboutMe](https://about.me/narainsagar) | [E-Mail](mailto:thecompletecode@gmail.com)
-
-
-
+[Website](http://narainsagar.com/) | [Twitter](https://twitter.com/narainsagar) | [LinkedIn](https://www.linkedin.com/pk/narainsagar) |  [Facebook](https://facebook.com/NarainSagarPage) | [Github](https://github.com/narainsagar) | [Stack Overflow](www.stackoverflow.com/users/5228251/narainsagar)
