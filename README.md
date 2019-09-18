@@ -1,4 +1,4 @@
-# My Graduation Period Coding Stuff - All Programming (Exercises, Assignments and Projects, etc) stuffs.
+# My Graduation Programming Stuff (Exercises, Assignments and Projects, etc)
 
 This repository is not for an app but more as a journal where I keep a record of everything I have done in my university time especially programming work (source codes - assignments, practice exercises/problems, projects). I decided to use a wiki as I can put more information easily on it. You will find my code there and also on the right directories if you just want to see the code.
 
