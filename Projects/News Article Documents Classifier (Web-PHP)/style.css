@@ -1,0 +1,94 @@
+body
+{
+	margin: auto;
+	background-color:rgb(195,195,195);
+}
+.header
+{
+	background-color: rgb(187,184,68);
+	width: 80%;
+	height: 100px;
+	margin: auto;
+	border-radius: 5px;
+    margin-top:  60px;
+}
+.header h1
+{
+	margin-top:30px;
+	margin-left: 65px;
+	padding-top: 30px;
+	color: Green;
+}
+.options
+{
+	width: 80%;
+	height:150px;
+	margin:auto;
+	border-radius: 5px;
+	background-color: rgb(128,255,255);
+	position: relative;
+	margin-top: 10px;
+}
+.options li 
+{
+	position: relative;
+	font-size: 1.5em;
+	top: 20px;
+	font-weight: bold;
+	font-family: cursive;
+	left: 60px;
+}
+.options li a
+{
+	text-decoration: none;
+	list-style: none;
+	color: #000000;
+}
+.options li a:hover
+{
+	color: #FF0000;
+}
+
+.group_members
+{
+	width: 80%;
+	height:220px;
+	margin:auto;
+	border-radius: 5px;
+	background-color: rgb(255,174,201);
+	position: relative;
+	margin-top: 10px;
+}
+.group_members h1
+{
+	color: Green;
+	text-align:center;
+	font-weight: bold;
+	font-size: 2.0em;
+	font-family: cursive;
+}
+.group_members li 
+{
+	position: relative;
+	font-size: 1.5em;
+	font-weight: bold;
+	font-family: cursive;
+	left: 60px;
+	text-align:center;
+}
+.group_members li:hover
+{
+	color: yellow;
+}
+.copyrights
+{
+	width: 80%;
+	position: relative;
+	margin: auto;
+}
+.copyrights
+{
+	text-align:center;
+	font-size: 1.0em;
+	font-family: cursive;
+}

@@ -1,0 +1,18 @@
+Read Me For Help.!!
+
+1. You must have to install any server to run this code. so download and install xampp/wamp server into your system
+
+2. if Installed.!then run your server and open browser and type localhost/phpmyadmin. + Enter
+
+3. Import the .sql file from "Database/articles_dictionary.sql" directory to your server(e.g: localhost/phpmyadmin).
+
+4. Copy the Complete Folder (AI_Doc_Classification) Into root directory of server (e.g: xampp/htdocs)
+
+5. Open Browser and Type localhost/AI_Doc_Classification/
+
+6. And Hit Enter.
+
+7. You are Done.!! Welcome.!
+
+Besto, 
+|Nine|

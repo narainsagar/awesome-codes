@@ -1,0 +1,92 @@
+body
+{
+	margin: auto;
+	width: 100%;
+	background-color:rgb(195,195,195);
+
+}
+.header
+{
+	background-color: rgb(187,184,68);
+	width: 80%;
+	height: 100px;
+	margin: auto;
+	border-radius: 5px;
+    margin-top:  80px;
+}
+.header h1
+{
+	margin-top:30px;
+	margin-left: 65px;
+	padding-top: 30px;
+	color: Green;
+}
+.file
+{
+width:80%;
+height:100px;
+border-radius:5px;
+margin: auto;
+background-color:rgb(187,184,68);
+position:relative;
+top:20px;
+}
+.file form
+{
+text-align:center;
+position:relative;
+top:20px;
+}
+.file form label
+{
+font-size:1.5em;
+position:relative;
+
+}
+.file form input
+{
+position:relative;
+width:180px;
+}
+
+.box
+{
+	background-color: rgb(195,195,195);
+	width: 80%;
+	height: 200px;
+	border-radius: 5px;
+	margin: auto;
+	top: 40px;
+	position: relative;
+
+}
+.box table
+{
+	list-style: none;
+	display: inline;
+	margin: 8em;
+	font-size: 1.5em;
+	font-weight: bold;
+	position:relative;
+	bottom:180px;
+}
+.box table th
+{
+background-color:rgb(255,255,0);
+}
+.box table td
+{
+background-color:white;
+text-align:center;
+}
+.copyrights
+{
+	width: 80%;
+	top: 40px;
+}
+.copyrights
+{
+	text-align:center;
+	font-size: 1.0em;
+	font-family: cursive;
+}
