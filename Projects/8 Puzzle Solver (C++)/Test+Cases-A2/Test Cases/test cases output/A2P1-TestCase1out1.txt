@@ -1,0 +1,22 @@
+8  down
+3  right
+5  up
+4  up
+6  right
+7  down
+4  left
+6  up
+1  left
+8  down
+6  right
+1  up
+7  right
+4  down
+1  left
+5  down
+2  right
+1  up
+4  up
+7  left
+8  left
+Goal State Found..
