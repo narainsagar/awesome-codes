@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Spelling - Auto Completer</title>
+  <link rel="stylesheet" href="src/jquery-ui.css">
+  <script src="src/jquery-1.10.2.js"></script>
+  <script src="src/jquery-ui.js"></script>
+  <link rel="stylesheet" href="src/style.css">
+  <script>
+  $(function() {
+    var availableTags = [
+      "ActionScript",
+      "AppleScript",
+      "Asp",
+      "BASIC",
+      "C",
+      "C++",
+      "Clojure",
+      "COBOL",
+      "ColdFusion",
+      "Erlang",
+      "Fortran",
+      "Groovy",
+      "Haskell",
+      "Java",
+      "JavaScript",
+      "Lisp",
+      "Perl",
+      "PHP",
+      "Python",
+      "Ruby",
+      "Scala",
+      "Scheme",
+	  "Asp is good"
+    ];
+    $( "#tags" ).autocomplete({
+      source: availableTags
+    });
+  });
+  </script>
+</head>
+<body>
+	<div class="header">
+		<h1> AUTO SPELL CHECKER AND WORDS PREDICTOR</h1>
+	</div>
+	<div class="options">
+			  <label for="tags">Type Anything: </label>
+			  <input id="tags">
+	</div>
+	<div class="group_members">
+		<h1>PROJECT GROUP MEMBERS</h1>
+		<ol>
+			<li>Narain Sagar (K11-2368)</li>
+			<li>Noman Karim (K11-2369)</li>
+		</ol>
+	</div>
+	<div class="copyrights">
+		<ul>Copyright &copy 2014, Dharam Solutions. All Rights Reserved.</ul>
+		<ul>Developed & Designed By <a href="https://www.facebook.com/dharamsolutions/" target="_blank">Dharam Solutions.<ul>
+	</div>
+ 
+</body>
+</html>

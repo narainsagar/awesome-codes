@@ -1,0 +1,117 @@
+body
+{
+	margin: auto;
+	background-color:rgb(0,162,232);
+}
+.header
+{
+	background-color: rgb(0,0,0);
+	width: 70%;
+	height: 100px;
+	margin: auto;
+	border-radius: 5px;
+    margin-top:  60px;
+	text-align:center;
+}
+.header h1
+{
+	margin-top:30px;
+	margin-left: 65px;
+	padding-top: 30px;
+	color: yellow;
+}
+.options
+{
+	width: 70%;
+	height:150px;
+	margin:auto;
+	border-radius: 5px;
+	background-color: grey;
+	position: relative;
+	margin-top: 10px;
+}
+.options label
+{
+	font-size:1.5em;
+	position:relative;
+	top:45px;
+	left:250px;
+}
+
+.options input
+{
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 1em;
+	position:relative;
+	top:45px;
+	left:300px;
+	width:180px;
+}
+#tags{
+width:250px;
+height:20px;
+}
+.options li 
+{
+	position: relative;
+	font-size: 1.5em;
+	top: 20px;
+	font-weight: bold;
+	font-family: cursive;
+	left: 60px;
+}
+.options li a
+{
+	text-decoration: none;
+	list-style: none;
+	color: white;
+}
+.options li a:hover
+{
+	color: #FF0000;
+}
+
+.group_members
+{
+	width: 70%;
+	height:220px;
+	margin:auto;
+	border-radius: 5px;
+	background-color: black;
+	position: relative;
+	margin-top: 10px;
+}
+.group_members h1
+{
+	color: Green;
+	text-align:center;
+	font-weight: bold;
+	font-size: 2.0em;
+	font-family: cursive;
+}
+.group_members li 
+{
+	position: relative;
+	color: white;
+	font-size: 1.5em;
+	font-weight: bold;
+	font-family: cursive;
+	left: 60px;
+	text-align:center;
+}
+.group_members li:hover
+{
+	color: yellow;
+}
+.copyrights
+{
+	width: 80%;
+	position: relative;
+	margin: auto;
+}
+.copyrights ul
+{
+	text-align:center;
+	font-size: 1.0em;
+	font-family: cursive;
+}

@@ -1,0 +1,12 @@
+++++++++++++++++++++++++++++++++++++
+		Instructions...!!
+++++++++++++++++++++++++++++++++++++
+
+1. Open index.html file in chrome browser.
+
+2. Type any Character in input box field. You will get suggestions in below
+ text area option and select any option from suggested options.
+
+3. Ooops..!! Done.
+
+4. Exit;
