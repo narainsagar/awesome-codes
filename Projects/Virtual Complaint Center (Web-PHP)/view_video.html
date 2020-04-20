@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>VCC | Project Video Demo</title>
+</head>
+<body background="images/2.png">
+<br>
+<iframe id="custom_video_play" title="YouTube video player" class="youtube-player" type="text/html" 
+width="854" height="510" src="http://www.youtube.com/embed/l0IA0EwJMPo" frameborder="0" allowfullscreen></iframe>
+</div>
+<script>
+var myVideo=document.getElementById("custom_video_play"); 
+function makeBig()
+{ 
+myVideo.width=850; 
+} 
+function makeSmall()
+{ 
+myVideo.width=450; 
+} 
+function makeNormal()
+{ 
+myVideo.width=550; 
+} 
+</script>
+<div style="text-align:left">
+<button onclick="makeBig()">Adjust: Large Screen</button>
+<button onclick="makeSmall()">Adjust: Small Screen</button>
+<button onclick="makeNormal()">Adjust: Normal Screen</button>
+<p></p>
+</body>
+</html>

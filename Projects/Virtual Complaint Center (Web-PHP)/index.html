@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<head>
+	<title>VCC | Home - Virtual Complaint Centre</title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+    <meta name="author" content="Virtual Complaint Centre">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+	<link href="css/1font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href="css/1misc.css" rel="stylesheet">
+	<link href="css/1style.css" rel="stylesheet">
+	<script src="js/1jquery-1.11.1.min.js"></script> 
+	<script src="js/jquery.lightbox.js"></script>
+	<script src="js/custom.js"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="menu">
+			<div class="hexagon_container" id="logo">
+				<div class="hexagon hexagon2">
+					<div class="hexagon-in1">
+							<div class="hexagon-in2 active">
+								<h2>VCC</h2>             	 	
+							</div>
+					</div>
+				</div>					
+			</div>
+			
+			<div class="hexagon_container" id="team">
+				<div class="hexagon hexagon2">
+					<div class="hexagon-in1">
+							<div class="hexagon-in2">
+								<i class="fa fa-user"></i>
+								<h2>VIRTUAL</h2>             	 	
+							</div>
+					</div>
+				</div>				
+			</div>
+			<div class="hexagon_container" id="services">
+				<div class="hexagon hexagon2">
+					<div class="hexagon-in1">
+						<div class="hexagon-in2">
+							<i class="fa fa-cogs"></i>
+							<h2>CENTER</h2>             	 	
+						</div>
+					</div>
+				</div>
+			</div>		
+			<div class="hexagon_container" id="contact">
+				<div class="hexagon hexagon2">
+					<div class="hexagon-in1">
+							<div class="hexagon-in2">
+								<i class="fa fa-envelope"></i>
+								<h2>COMPLAINT</h2>             	 	
+							</div>
+					</div>
+				</div>						
+			</div>
+		</div>	
+		<div id="services-content">
+			<header>
+				<h1>Our Services</h1>
+			</header>
+			<div class="content services">
+				<div class="hexagon_container">
+					<div class="hexagon hexagon2 services-item">
+						<a href="reg_comp.php">
+						<div class="hexagon-in1">
+							<div class="hexagon-in2" data-service-description="1">
+								<i class="fa fa-pencil"></i>
+							</div>
+						</div>
+						</a>
+					</div>
+					<h2>Register Complaint</h2> 
+				</div>
+				<div class="hexagon_container">
+					<div class="hexagon hexagon2 services-item">
+						<a href="view_comp.php">
+						<div class="hexagon-in1">
+							<div class="hexagon-in2" data-service-description="2">
+								<i class="fa fa-cog"></i>
+							</div>
+						</div>
+						</a>
+					</div>
+					<h2>Check Complaint</h2>
+				</div>
+				<div class="hexagon_container">
+					<div class="hexagon hexagon2 services-item">
+						<a href="view_poster.html">
+						<div class="hexagon-in1">
+							<div class="hexagon-in2" data-service-description="2">
+								<i class="fa fa-cog"></i>
+							</div>
+						</div>
+						</a>
+					</div>
+					<h2>Website Poster</h2>
+				</div>
+				<div class="hexagon_container">
+					<div class="hexagon hexagon2 services-item">
+						<a href="view_video.html">
+						<div class="hexagon-in1">
+							<div class="hexagon-in2" data-service-description="2">
+								<i class="fa fa-cog"></i>
+							</div>
+						</div>
+						</a>
+					</div>
+					<h2>Website Video</h2>
+				</div>
+			</div>
+		</div>				
+	</div>
+    <div class="templatemo_footer">
+    	Copyright © 2014 Dharam Solutions 
+	<script type="text/javascript">
+		$("#services-content .hexagon-in2").hover(function() {
+			$('.content-description p').text($(this).data("serviceDescription"));
+			$("#services-content .hexagon-in2").removeClass('active');
+			$(this).addClass('active');
+			
+		});
+	</script> 
+</body>
+</html>
