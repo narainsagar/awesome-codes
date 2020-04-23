@@ -1,0 +1,424 @@
+
+/* ********************* */
+/* CSS for susdesign.com */
+/* ********************* */
+
+
+/* ********************* */
+/* navigation */
+/* ********************* */
+
+body, html {
+
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	background-image:  url('images/nav/paisley-bg.gif');
+	background-color: #BEBD98;
+}
+
+body {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 16pt;
+	color: #000;
+	text-align: center;
+}
+
+td, p {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 14pt;
+	color: #000;
+}
+
+#outerWrapper {
+
+	width: 800px;
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-top: 0px; 
+	margin-bottom: 0px; 
+	padding: 0px;
+	padding: 0px;
+}
+
+#mainFrame {
+
+	position: relative;
+	width: 800px;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+#contentWrapper {
+
+	position: relative;
+	width: 800px;
+	background-image:  url('images/nav/bg-strip.gif');
+	background-repeat: repeat-y;
+	text-align: center;
+	margin: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#innerContent {
+
+	position: relative;
+	width: 650px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+}
+
+#leftChevron {
+
+	position: absolute;
+	bottom: 30px;
+	left: 6px;
+	z-index: 100;
+}
+
+#rightChevron {
+
+	position: absolute;
+	top: 20px;
+	right: 6px;
+	z-index: 100;
+}
+
+#navMenu {
+
+	position: absolute;
+	top: 56px;
+	left: 434px;
+	z-index: 100;
+}
+
+
+/* ********************* */
+/* text styling */
+/* ********************* */
+
+.title {
+	font-size: 18px;
+	font-weight: bold;
+	color: #004400;
+}
+
+.header {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.subheader {
+	font-size: 12px;
+	font-weight: bold;
+	font-style: italic;
+}
+
+small, .small {
+	font-size: 10px;
+}
+
+.very_small {
+	font-size: 10px;
+}
+
+.main_table {
+	width: 100%;
+}
+
+a.small:link, a.small:visited {
+
+	font-size: 12px;
+	font-weight: bold;
+	color: #18781E;
+	text-decoration: none;
+}
+
+a.small:hover {
+
+	font-size: 12px;
+	font-weight: bold;
+	color: #18781E;
+	text-decoration: underline;
+}
+
+a.small:active {
+
+	font-size: 12px;
+	font-weight: bold;
+	color: #28FF74;
+	text-decoration: underline;
+}
+
+a.white:link, a.white:visited {
+
+	font-size: 11px;
+	color: #FFF;
+	text-decoration: underline;
+}
+
+a.white:hover {
+
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: underline;
+}
+
+a.white:active {
+
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFF;
+	text-decoration: none;
+}
+
+.subLink {
+
+	font-size: 10px;
+	font-weight: normal;
+	color: #18781E;
+}
+
+.subLink:link, .subLink:visited {
+
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+.subLink:hover {
+
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+.subLink:active {
+
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a:link, a:visited {
+
+	font-weight: bold;
+	color: #18781E;
+	text-decoration: underline;
+}
+
+a:hover {
+
+	font-weight: bold;
+	color: #18781E;
+	text-decoration: underline;
+	background: #FFF468;
+}
+
+a:active {
+
+	font-weight: bold;
+	color: #28FF74;
+	text-decoration: underline;
+}
+
+/* ---------------------------------- */
+/*               POPUPS               */
+/* ---------------------------------- */
+
+.popupBody {
+
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	background: none;
+	background-color: #8DC63F;
+	
+}
+
+.popupTable {
+
+	width: 100%;
+	background-color: #FFFFFF;
+}
+
+.popupTitleBar {
+
+	background-color: #8DC63F;
+	padding: 4px;
+}
+
+.popupTitleText {
+
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.popupCloseText, 
+.popupCloseText:link, 
+.popupCloseText:visited, 
+.popupCloseText:active, 
+.popupCloseText:hover {
+
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+/* ----------------------------------- */
+/*              portfolio              */
+/* ----------------------------------- */
+
+.portfolioItem {
+
+	position: relative;
+	width: 200px;
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+#portfolioViewer {
+
+	display: none;
+	position: absolute;
+	top: 300px;
+	width: 800px;
+	text-align: center;
+	margin: 0 auto;
+	z-index: 1000;
+	background-color: #000;
+}
+
+#portfolioViewerContent {
+
+}
+
+#portfolioViewerBanner {
+
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/* ----------------------------------- */
+/*             DATA TABLES             */
+/* ----------------------------------- */
+
+.dataLabel {
+
+}
+
+.tableHeaderBar {
+
+	background-color: #8DC63F;
+	padding: 2px;
+}
+
+.tableHeaderText {
+
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.tableSubheaderBar {
+
+	padding: 10px 5px 5px 5px;
+}
+
+.tableSubheaderText {
+
+	font-size: 14px;
+	font-weight: bold;
+	color: #8DC63F;
+}
+
+.calculateButton {
+
+	background-color: #8DC63F;
+	color: #FFFFFF;
+}
+
+.white {
+
+	color: #FFF;
+}
+
+.tight {
+
+	line-height: 11pt;
+}
+
+.alignLeft {
+
+	text-align: left;
+}
+
+.indented2em {
+
+	padding-left: 2em;
+}
+
+.resumeItem {
+
+	padding-top: 1em;
+	padding-bottom: 2em;
+	padding-left: 2em;
+	padding-right: 0;
+	
+	font-size: 8pt;
+	line-height: 11pt;
+}
+
+.clearDiv {
+
+	clear: both;
+}
+
+.headerBar {
+
+	color: #FFF;
+	font-weight: bold;
+	font-size: 16px;
+	background-color: #8DC63F;
+	padding: 2px;
+}
+
+.inputRow {
+
+	margin-top: 10px;
+}
+
+.brownBox {
+
+	padding: 5px;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px solid #080;
+	background-color: #DDA;
+
+	font-size: 8pt;
+	line-height: 11pt;
+	
+	display: block;
+}
+

@@ -1,0 +1,18 @@
+body { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; link : #000080; alink: #0000FF }
+ol  { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt }
+p { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt }
+td { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt }
+li { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt }
+h1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 24pt; font-weight: normal }
+h2 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12pt; font-weight: bold }
+h3 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-weight: bold }
+h4 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; font-style:italic }
+h5 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt }
+input { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt }
+select { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt }
+
+a:link { color: darkblue; text-decoration: none; font-weight: bold }
+a:active { color: red; text-decoration: none }
+a:visited { color: darkblue; text-decoration: none; font-weight: bold }
+a:hover { color: red; text-decoration: none }
+
