@@ -1,0 +1,31 @@
+Hello!!!
+I am narain Sagar,these are my codes @copyright By 9-Sagar (25-6-2013 12:29 A.M)
+
+thanks,
+
+Dear respected teachers, this is a Assignment checker Analyzers of course Theory 
+of Automata, these codes will help you to check assignment within a seconds..
+
+how?????
+
+upload assignment on slate and also make submission folders according to Section.
+instead of demanding handwritten form on paper you just told the students to submit online on slate.
+and provide the details of your machine in an .text file and make sure that name of your .txt file file should be 
+your Roll No. i.e, (Kxx-xxxx) and only .txt will be accepted.
+
+if you not follow these steps ur assignment will automatically be marked Zero.
+Thanks,
+
+Steps to make assignment :
+
+1- first do ur assignment on paper (make your machine) and check inputs that ur machine correct or not, it means dry run ur code.
+2- Make transition table of ur code on paper (trasition table format given in assignment file)
+3- Open Notepad
+4- Copy and paste transitions,Alphabets, input, Final States, and States into opened notepad file.
+5- Ctrl+S (Save the file on Desktop) with name ur Roll no. (Kxx-xxxx)with .txt extention.
+6- Upload ur .txt file on Slate Ur submission folder.
+7- make sure all steps will be followed.. otherwise u will be graded zero marks for this assignment
+
+Thanks,
+Regards
+Narain

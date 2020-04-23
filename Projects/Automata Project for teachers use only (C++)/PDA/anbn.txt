@@ -1,0 +1,9 @@
+Q={A,B,C,D}
+E={a,b}
+I=A
+F={D}
+T(A,a,^,a)=B
+T(B,a,^,a)=B
+T(B,b,a,^)=C
+T(C,b,a,^)=C
+T(C,^,$,$)=D
