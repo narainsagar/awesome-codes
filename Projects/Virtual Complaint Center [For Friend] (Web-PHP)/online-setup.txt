@@ -1,0 +1,16 @@
+heera-domain / passwd= xxxxxxx
+
+	
+Information
+MySQL database will be created in 1 minute. Use these details for your PHP scripts:
+
+$mysql_host = "mysql3.000webhost.com";
+$mysql_database = “xxxxxxxx”;
+$mysql_user = “xxxxx”;
+$mysql_password = “xxxxx”;
+[ Back to MySQL ]
+
+[ Back to Control Panel ]
+
+
+

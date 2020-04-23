@@ -1,0 +1,123 @@
+/*----
+	Author: W3layouts
+	Author URL: http://w3layouts.com
+	License: Creative Commons Attribution 3.0 Unported
+	License URL: http://creativecommons.org/licenses/by/3.0/
+---*/
+html,body{
+	font-family: 'Lato', sans-serif;
+}
+.clear{
+	clear:both;
+}
+body a{
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-o-transition:0.5s all;
+	-ms-transition:0.5s all;
+	-o-transition:0.5s all;
+}
+body input[type="text"],body input[type="submit"],body textarea,body input[type="button"]{
+	-webkit-appearance:none;
+}
+
+/*------FOOTER STARTS---------*/
+.footer{
+	background: url(../images/footerbg.jpg);
+	position: relative;
+	min-height: 567px;
+	background-size: cover;
+	position:relative;
+}
+.contact-section h2{
+	color:#D2D1D1;
+	font-weight:300;
+	font-size:2.5em;
+	padding-top:1em;
+}
+.contact-section span{
+	background: #8C868A;
+	height:1px;
+	width:100%;
+	display:inline-block;
+	vertical-align:middle;
+}
+.contact-section span:nth-child(1){
+	margin-right:10px;
+}
+.contact-section span:nth-child(2){
+	margin-left:10px;
+}
+.footer-left{
+	margin-top:1em;
+}
+.social-icons{
+}
+.social-icons a img{
+	margin-right:0.5em;
+}
+.social-icons a img:hover{
+	opacity:0.8;
+}
+.footer-left p{
+	color:#B5A9B7;
+	width:80%;
+	margin:2em 0 0 0em;
+	line-height:2em;
+}
+.footer-right{
+	text-align: right;
+	margin-top: 1.3em;
+}
+.footer-right input[type="text"],.footer-right textarea{
+	background:#FFFFFF;
+	color:#B5A9B7;
+	padding: 1em 0.8em;
+	width:75%;
+	margin-bottom:1em;
+	outline:none;
+	border: solid 1.5px;
+	border-color:#9A9A9A #EEEEEE #EEEEEE #9A9A9A;
+}
+.footer-right textarea {
+	min-height:150px;
+	resize:none;
+}
+.footer-right textarea{
+	color:#B5A9B7;
+}
+.footer-right input[type="submit"]{
+	text-align:center;
+	float:right;
+	color:#D2D1D1;
+	font-size:1.2em;
+	outline:none;
+	padding:0.6em 2.5em;
+	border:1px solid #B8ABAB;
+	background:none;
+	transition:0.5s all;
+	-webkit-transition:0.5s all;
+	-moz-transition:0.5s all;
+	-ms-transition:0.5s all;
+	-o-transition:0.5s all;
+}
+.footer-right input[type="submit"]:hover{
+	border-color:#FFF;
+	color:#FFF;
+}
+.up{
+	position:absolute;
+	bottom: 9%;
+    left: 49%;
+}
+.up span{
+	height:48px;
+	width:48px;
+	background:url(../images/up.png);
+	margin-top:2em;
+	display:inline-block;
+}
+ .col-md-6 {
+    width: 80%;
+  }
+}
