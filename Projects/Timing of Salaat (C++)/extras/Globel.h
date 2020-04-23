@@ -7,7 +7,7 @@ void line()
 void FormulaOfFajar()
 {
  	cout<<"\n";
-	cout<<"  "; 
+	cout<<""; 
 }
 void FormulaOfZuhr()
 {

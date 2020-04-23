@@ -13,7 +13,6 @@ class SalaatTime
       	   declinition_of_sun,
 	  	   gmt,
       	   zuhar_time;	  
-   int hh,mm,ss;
   public:
 	 SalaatTime();
 	 void InputData();

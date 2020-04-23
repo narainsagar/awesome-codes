@@ -1,4 +1,5 @@
-
+#include<iostream>
+#include "Class.h"
 SalaatTime::SalaatTime()
 {
     lambda_zone=0.0;
@@ -12,7 +13,7 @@ SalaatTime::SalaatTime()
 }
 void SalaatTime::printTime(string s,int hh,int mm,int ss)
 {
-     //line();
+     line();
 	 cout<<"\n\t\t\t"<<s<<"TIME\n   ";
 	 line();
      cout<<"\n\t\t\t"<<hh<<" : "<<mm<<" : "<<ss<<"\n";
@@ -57,7 +58,6 @@ void SalaatTime::CalculateZuhrTime()
 	secs=(mins-minutes)*60;
 //	cout<<"\n\nsecs = "<<secs;
 	seconds=int(secs);
-	line();
 	printTime(" ZUHAR ",hours,minutes,seconds);
 /*	
 cout<<"\n\n\t\t\tZUHAR TIME\n\n";

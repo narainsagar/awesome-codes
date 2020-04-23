@@ -1,0 +1,33 @@
+    City     Longitude              gmt                  phi                  D       declination of the sun          AIT
+   Khuzdar     66.60                  5                    30                    
+   Turbat      63.07                  5                    26.003
+   Chaman      66.44                  5                    30.91
+   Sibi	       67.87                  5                    29.544
+   Zhob        69.44                  5                    31.34
+   Gwadar      62.33                  5                    25.121
+  Loralai      68.60                  5                    30.3708
+  Pasni        63.45                  5                    25.2625
+  Kharan       65.42                  5                    28.583
+  Mastung      66.85                  5                    29.79                  
+  Nushki       66.01                  5                    29.55
+  Kalat        66.58N                 5                    29.033	
+Faisalabad     73.0833                5                    31.41
+Gilgit         74.3                   5                    35.922 
+Gwadar         62.3167                5                    25.121
+Hyderabad      68.4167                5                    25.382
+Islamabad	73.1                  5                    33.721
+Jacobabad       68.4667               5                    28.286
+Jiwani 	        61.8                  5                    25.049
+Karachi 	67.1333               5                    24.905
+Lahore          74.3333               5                    31.549
+Mardan          72.0333               5                    34.198
+Mianwali 	71.5167               5                    32.574                    
+Murree          72.4                  5                    33.9049        
+Muzaffarabad    73.4667               5                    34.370
+Nawabshah	68.3667               5                    26.252
+Panjgur         64.1                  5                    26.966
+Peshawar        71.5833               5                    34.008
+Quetta          66.8833               5                    30.187
+Sargodha 	72.6667               5                    32.083                     	
+Sukkur 	        68.8667               5                    27.70
+Qatar           51.533                3                    18.233
