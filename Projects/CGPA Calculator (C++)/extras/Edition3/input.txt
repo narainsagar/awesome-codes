@@ -1,0 +1,21 @@
+		.... EXAMPLE INPUT...
+NUMBER OF SEMESTER'S :  3
+NUMBER OF COURSES OF CURRENT SEMESTER  : 5
+     PROVIDE CURRENT (3)rd SEMESTER'S GRADES
+gpa of subject 1 :  2.33
+Credit hour      :  3  
+gpa of subject 2 :  2.67
+Credit hour      :  3 
+gpa of subject 3 :  3.33
+Credit hour      :  3 
+gpa of subject 4 :  4.00
+Credit hour      :  3 
+gpa of subject 5 :  3.00
+Credit hour      :  3 
+	PROVIDE PREVIOUS SEMESTER'S GRADES
+Semester 1 SGPA   :   2.57
+Credits Earned    :   17
+	
+Semester 2 SGPA   :   2.23
+Credits Earned    :   17
+****************************************************************************************
