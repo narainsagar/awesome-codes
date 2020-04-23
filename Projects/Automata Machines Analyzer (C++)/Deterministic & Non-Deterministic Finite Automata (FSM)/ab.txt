@@ -1,0 +1,11 @@
+Q={p,q,r}
+E={a,b}
+i=p
+F={r}
+
+o(p,a)=q
+o(p,b)=p
+o(q,a)=q
+o(q,b)=r
+o(r,a)=q
+o(r,b)=p

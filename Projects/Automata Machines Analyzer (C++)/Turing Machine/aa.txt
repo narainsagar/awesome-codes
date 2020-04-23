@@ -1,0 +1,8 @@
+Q={A,B,C,D}
+E={a,b}
+I=A
+F={D}
+T(A,a,a,R)=B
+T(A,b,b,S)=C
+T(B,a,a,R)=D
+T(B,b,b,S)=C

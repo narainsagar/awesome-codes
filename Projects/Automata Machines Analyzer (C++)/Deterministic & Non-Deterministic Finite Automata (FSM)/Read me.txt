@@ -1,0 +1,35 @@
+        ..... INFORMATION ABOUT DFA PROGRAM .....
+-----------------------------------------------------
+   FORMAT STRING ( A3-EE/CS-K112368.pdf ) 
+-----------------------------------------------
+DFA transitions are in file bonus1.txt 
+-----------------------------------------
+1. first char (A) is in alphabets.and after (A) there could be 
+   any character from 1-5 its assignment number and then (-)
+2. (EE/CS) or is also in alphabets.after this there should be (-)
+3. (K) is also in alphabets.
+4. after (K) there should be (10 or 11) and after that (2) also will be there
+   and after that any character from (1-4) and then any 2 characters from 0-9
+5. and in last .pdf should be there.
+6. Make sure all characters of input string should be in Capital except (.pdf)
+
+these all points are language of DFA
+
+it means following inputs will be accepted by DFA for bonus1.txt file
+
+1.  A1-EE-K102109.pdf
+2.  A5-CS-K112489.pdf 
+3.  A4-CS-k102369.pdf
+-----------------------------------------------------------------------------------
+If you want to check any other DFA please make sure your file format would be same as in bonus1.txt
+------------------------------------------------------------------------------------
+In bonus1.txt
+-------------
+Q is number of States
+E is Alphabets
+i is initial state
+F is Final State / accepting state
+and
+o(state,charinput)=state   is transitions format
+----------------------------------------
+THANK You...
