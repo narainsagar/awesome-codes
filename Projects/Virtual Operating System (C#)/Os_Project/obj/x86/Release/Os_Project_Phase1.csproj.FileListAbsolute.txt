@@ -1,0 +1,5 @@
+C:\Users\Dark\Desktop\New folder\Os_Project\Os_Project\bin\Release\Os_Project.exe
+C:\Users\Dark\Desktop\New folder\Os_Project\Os_Project\bin\Release\Os_Project.pdb
+C:\Users\Dark\Desktop\New folder\Os_Project\Os_Project\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Dark\Desktop\New folder\Os_Project\Os_Project\obj\x86\Release\Os_Project.exe
+C:\Users\Dark\Desktop\New folder\Os_Project\Os_Project\obj\x86\Release\Os_Project.pdb

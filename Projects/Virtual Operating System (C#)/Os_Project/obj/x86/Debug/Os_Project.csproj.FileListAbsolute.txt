@@ -1,0 +1,18 @@
+d:\documents and settings\home\my documents\visual studio 2010\Projects\Os_Project\Os_Project\bin\Debug\Os_Project.exe
+d:\documents and settings\home\my documents\visual studio 2010\Projects\Os_Project\Os_Project\bin\Debug\Os_Project.pdb
+d:\documents and settings\home\my documents\visual studio 2010\Projects\Os_Project\Os_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents and settings\home\my documents\visual studio 2010\Projects\Os_Project\Os_Project\obj\x86\Debug\Os_Project.exe
+d:\documents and settings\home\my documents\visual studio 2010\Projects\Os_Project\Os_Project\obj\x86\Debug\Os_Project.pdb
+C:\Users\Sho-B\Desktop\OS_Project\Os_Project\Os_Project\obj\x86\Debug\Os_Project.pdb
+C:\Users\Sho-B\Desktop\OS_Project\Os_Project\Os_Project\bin\Debug\Os_Project.exe
+C:\Users\Sho-B\Desktop\OS_Project\Os_Project\Os_Project\bin\Debug\Os_Project.pdb
+C:\Users\Sho-B\Desktop\OS_Project\Os_Project\Os_Project\obj\x86\Debug\Os_Project.csprojResolveAssemblyReference.cache
+C:\Users\Sho-B\Desktop\OS_Project\Os_Project\Os_Project\obj\x86\Debug\Os_Project.exe
+D:\Documents and Settings\Home\My Documents\Visual Studio 2010\Projects\Os_Project\Os_Project\Os_Project\Os_Project\obj\x86\Debug\Os_Project.pdb
+D:\Documents and Settings\Home\Desktop\Os_Project\Os_Project\Os_Project\Os_Project\obj\x86\Debug\Os_Project.pdb
+D:\Documents and Settings\Home\Desktop\Os_Project\Os_Project\Os_Project\Os_Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Home\Desktop\Os_Project\Os_Project\Os_Project\Os_Project\bin\Debug\Os_Project.exe
+D:\Documents and Settings\Home\Desktop\Os_Project\Os_Project\Os_Project\Os_Project\bin\Debug\Os_Project.pdb
+D:\Documents and Settings\Home\Desktop\Os_Project\Os_Project\Os_Project\Os_Project\obj\x86\Debug\Os_Project.exe
+F:\ShobiZzZ\Uni Work\4Th Semester\OS\Os_Project\Os_Project\obj\x86\Debug\Os_Project.exe
+F:\ShobiZzZ\Uni Work\4Th Semester\OS\Os_Project\Os_Project\obj\x86\Debug\Os_Project.pdb
