@@ -6,7 +6,7 @@ This repository is used for managing all of mine favourite projects code (I wrot
 
 ## Courses Assignments / Projects
 
-| Date (YYYY) | Project name | Source Code Link | Creator |  Language / Tech-stack used | Course Name
+| Date (YYYY) | Project name | Source Code Link | Author |  Language / Tech-stack used | Course Name
 |---------|---------|---------------|--------|---------------|--------|
 | YYYY | [Boolean Retrieval Model (Information Retrieval & Text Mining)- C++](#) | [Link](https://github.com/narainsagar/awesome-codes/tree/master/Assignments/Boolean%20Retrieval%20Model%20(Information%20Retrieval%20%26%20Text%20Mining)-%20C%2B%2B) | [@narainsagar](https://github.com/narainsagar) | C++ | Information Retrieval and Text mining
 | YYYY | [Vector Space Model (Information Retrieval & Text Mining)- Java](#) | [Link](https://github.com/narainsagar/awesome-codes/tree/master/Assignments/Vector%20Space%20Model%20(Information%20Retrieval%20%26%20Text%20Mining)-%20Java) | [@narainsagar](https://github.com/narainsagar) | JAVA | Information Retrieval and Text mining
@@ -28,7 +28,7 @@ This repository is used for managing all of mine favourite projects code (I wrot
 
 ## Other Projects 
 
-| Date (YYYY) | Project name | Source Code Link | Creator |  Language / Tech-stack used
+| Date (YYYY) | Project name | Source Code Link | Author |  Language / Tech-stack used
 |---------|---------|---------------|--------|---------------|
 | 2015 | [15 Puzzle Solver (C++)](#) | [Link](https://github.com/narainsagar/awesome-codes/tree/master/Projects/15%20Puzzle%20Solver%20(C%2B%2B)) | [@narainsagar](https://github.com/narainsagar) | C++
 | 2015 | [8 Puzzle Solver (C++)](#) | [Link](https://github.com/narainsagar/awesome-codes/tree/master/Projects/8%20Puzzle%20Solver%20(C%2B%2B)) | [@narainsagar](https://github.com/narainsagar) | C++
