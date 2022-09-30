@@ -1,6 +1,6 @@
 
 
-# My AWESOME Code
+# AWESOME Codes
 
 This repository is used for managing all of mine favourite projects code (I wrote during my graduation between 2011-2015)
 
