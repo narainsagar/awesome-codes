@@ -6,7 +6,7 @@ This repository is used for managing all of mine favourite projects code (I wrot
 
 # AWESOME Projects
 
-| Date | Project name | Link | Creator |  Language / Tech-stack used
+| Date (YYYY) | Project name | Source Code Link | Creator |  Language / Tech-stack used
 |---------|---------|---------------|--------|---------------|
 | 2015 | [15 Puzzle Solver (C++)](#) | [Link](https://github.com/narainsagar/awesome-codes/tree/master/Projects/15%20Puzzle%20Solver%20(C%2B%2B)) | [@narainsagar](https://github.com/narainsagar) | C++
 | 2015 | [8 Puzzle Solver (C++)](#) | [Link](https://github.com/narainsagar/awesome-codes/tree/master/Projects/8%20Puzzle%20Solver%20(C%2B%2B)) | [@narainsagar](https://github.com/narainsagar) | C++
