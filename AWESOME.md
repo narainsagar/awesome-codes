@@ -4,7 +4,18 @@
 
 This repository is used for managing all of mine favourite projects code (I wrote during my graduation between 2011-2015)
 
-# AWESOME Projects
+## Assignment / Projects (Java/C++)
+
+| Date (YYYY) | Project name | Source Code Link | Creator |  Language / Tech-stack used | Course Name
+|---------|---------|---------------|--------|---------------|--------|
+| YYYY | [Boolean Retrieval Model (Information Retrieval & Text Mining)- C++](#) | [Link](https://github.com/narainsagar/awesome-codes/tree/master/Assignments/Boolean%20Retrieval%20Model%20(Information%20Retrieval%20%26%20Text%20Mining)-%20C%2B%2B) | [@narainsagar](https://github.com/narainsagar) | C++ | AI / Artificial Intelligence
+| YYYY | [Vector Space Model (Information Retrieval & Text Mining)- Java](#) | [Link](https://github.com/narainsagar/awesome-codes/tree/master/Assignments/Vector%20Space%20Model%20(Information%20Retrieval%20%26%20Text%20Mining)-%20Java) | [@narainsagar](https://github.com/narainsagar) | JAVA | AI / AI
+| YYYY | [Client Server Problem (Computer Networks) - Java](#) | [Link](https://github.com/narainsagar/awesome-codes/tree/master/Assignments/Client%20Server%20Problem%20(Computer%20Networks)%20-%20Java) | [@narainsagar](https://github.com/narainsagar) | JAVA | Computer Networks
+<!-- | YYYY | [](#) | [Link]() | [@narainsagar](https://github.com/narainsagar) | C | 
+| YYYY | [](#) | [Link]() | [@narainsagar](https://github.com/narainsagar) | C | 
+| YYYY | [](#) | [Link]() | [@narainsagar](https://github.com/narainsagar) | C |  -->
+
+## Projects (C/C++/.NET/WEB)
 
 | Date (YYYY) | Project name | Source Code Link | Creator |  Language / Tech-stack used
 |---------|---------|---------------|--------|---------------|
