@@ -26,7 +26,7 @@ This repository is used for managing all of mine favourite projects code (I wrot
 | YYYY | [](#) | [Link]() | [@narainsagar](https://github.com/narainsagar) | C | 
 | YYYY | [](#) | [Link]() | [@narainsagar](https://github.com/narainsagar) | C |  -->
 
-## Projects (C/C++/.NET/WEB)
+## Other Projects 
 
 | Date (YYYY) | Project name | Source Code Link | Creator |  Language / Tech-stack used
 |---------|---------|---------------|--------|---------------|
