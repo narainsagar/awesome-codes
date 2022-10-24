@@ -1,10 +1,14 @@
-# My Graduation Programming Stuff (Exercises, Assignments and Projects, etc)
+# awesome-codes ~ @narainsagar
+
+> My Graduation Programming Stuff (Exercises, Assignments and Projects, etc).... Go to [AWESOME.md](./AWESOME.md) for tabular formatted list of codes.
 
 This repository is not for an app but more as a journal where I keep a record of everything I have done in my university time especially programming work (source codes - assignments, practice exercises/problems, projects). I decided to use a wiki as I can put more information easily on it. You will find my code there and also on the right directories if you just want to see the code.
 
 I will try to keep everything updated. The purpose of this is for reference and learning material overall, for everyone as it is public.
 
 If you find this useful then follow and start it, feel free to share it also.
+
+> Feel free to check [AWESOME.md](./AWESOME.md) for tabular formatted list of codes.
 
 TODO: I will post and share all these codes on blogger as well soon along with description: [The Complete Code](https://www.thecompletecode.blogspot.com/)
 
